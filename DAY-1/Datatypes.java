@@ -13,7 +13,7 @@ public class Datatypes {
         boolean val7=true;
         char val8='t';
         
-        System.out.println("Primitive data types: ");
+        System.out.println("Primitive data types: "); 
         System.out.println("Byte: " + val1);
         System.out.println("Short: " + val2);
         System.out.println("Int: " + val3);
@@ -32,3 +32,4 @@ public class Datatypes {
         System.out.println("Array: " + Arrays.toString(arr));
     }
 }
+
