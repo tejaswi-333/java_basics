@@ -12,7 +12,7 @@ class Car {
         this.color = color;
     }
 
-    // Method
+    // Print Method
     public void displayInfo() {
         System.out.println("Car Details: " + year + " " + model);
     }
@@ -23,4 +23,5 @@ public class Code1 {
         Car car = new Car("Toyota",2024, "Silver");
         car.displayInfo();  
     }
+
 }
